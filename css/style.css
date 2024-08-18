@@ -363,7 +363,7 @@ footer a {
     margin: 16px 0 40px;
   }
   .layout__list {
-    margin-bottom: 32px 0 24px;
+    margin: 32px 0 24px;
   }
   .layout__content > div:nth-of-type(-n + 2) > div:first-of-type {
     height: 404px;
